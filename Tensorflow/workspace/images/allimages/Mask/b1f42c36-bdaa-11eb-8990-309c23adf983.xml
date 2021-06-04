@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>b1f42c36-bdaa-11eb-8990-309c23adf983.jpg</filename>
+	<path>C:\Users\agust\Desktop\Portafolio\Python\ML\Obj Detection\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Mask\b1f42c36-bdaa-11eb-8990-309c23adf983.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>248</ymin>
+			<xmax>425</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

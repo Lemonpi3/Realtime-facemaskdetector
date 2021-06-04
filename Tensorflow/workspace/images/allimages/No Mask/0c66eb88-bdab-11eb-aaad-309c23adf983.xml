@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No Mask</folder>
+	<filename>0c66eb88-bdab-11eb-aaad-309c23adf983.jpg</filename>
+	<path>C:\Users\agust\Desktop\Portafolio\Python\ML\Obj Detection\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\No Mask\0c66eb88-bdab-11eb-aaad-309c23adf983.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>290</ymin>
+			<xmax>528</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
